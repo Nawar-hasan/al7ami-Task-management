@@ -75,5 +75,8 @@ With the rise of remote work and dispersed teams, there is a growing need for to
     
 - **Database:**
     - MongoDB for efficient and scalable data storage.
+ 
+- **Develper**
+  ENG: AMMAR FAREID & NAWAR
 
 
